@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais
+config.json
+
+# Cache do sistema
+.DS_Store
+
+# Pasta de build (caso use pyinstaller)
+dist/
+build/
+*.spec

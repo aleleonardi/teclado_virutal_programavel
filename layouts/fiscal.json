@@ -1,0 +1,272 @@
+{
+  "layout": "Fiscal",
+  "janela_alvo": "Editor de Texto",
+  "linhas": 11,
+  "colunas": 4,
+  "teclas": [
+    {
+      "nome": "Dinheiro",
+      "retorno": "a",
+      "cor": "#009c00",
+      "descricao": "Finaliza o pagamento com dinheiro"
+    },
+    {
+      "nome": "Subtotal",
+      "retorno": "ESC[15~",
+      "cor": "#007bff",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Cancelar",
+      "retorno": "ESC[20~",
+      "cor": "#dc3545",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Cliente",
+      "retorno": "ESC[30~",
+      "cor": "#6c757d",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Busca",
+      "retorno": "CTRL+F",
+      "cor": "#6f42c1",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Qtd",
+      "retorno": "ESC[40~",
+      "cor": "#20c997",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Confirmar",
+      "retorno": "ENTER",
+      "cor": "#17a2b8",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Finalizar",
+      "retorno": "ESC[50~",
+      "cor": "#fd7e14",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Pgto",
+      "retorno": "F12",
+      "cor": "#ffc107",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Troca",
+      "retorno": "ALT+T",
+      "cor": "#e83e8c",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Relatório",
+      "retorno": "CTRL+R",
+      "cor": "#343a40",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Opções",
+      "retorno": "ESC[60~",
+      "cor": "#198754",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Preço",
+      "retorno": "ESC[13~",
+      "cor": "#28a745",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Subtotal",
+      "retorno": "ESC[15~",
+      "cor": "#007bff",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Cancelar",
+      "retorno": "ESC[20~",
+      "cor": "#dc3545",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Cliente",
+      "retorno": "ESC[30~",
+      "cor": "#6c757d",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Busca",
+      "retorno": "CTRL+F",
+      "cor": "#6f42c1",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Qtd",
+      "retorno": "ESC[40~",
+      "cor": "#20c997",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Confirmar",
+      "retorno": "ENTER",
+      "cor": "#17a2b8",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Finalizar",
+      "retorno": "ESC[50~",
+      "cor": "#fd7e14",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Pgto",
+      "retorno": "F12",
+      "cor": "#ffc107",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Troca",
+      "retorno": "ALT+T",
+      "cor": "#e83e8c",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Relatório",
+      "retorno": "CTRL+R",
+      "cor": "#343a40",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Opções",
+      "retorno": "ESC[60~",
+      "cor": "#198754",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Preço",
+      "retorno": "ESC[13~",
+      "cor": "#28a745",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Subtotal",
+      "retorno": "ESC[15~",
+      "cor": "#007bff",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Cancelar",
+      "retorno": "ESC[20~",
+      "cor": "#dc3545",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Cliente",
+      "retorno": "ESC[30~",
+      "cor": "#6c757d",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Busca",
+      "retorno": "CTRL+F",
+      "cor": "#6f42c1",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Qtd",
+      "retorno": "ESC[40~",
+      "cor": "#20c997",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Confirmar",
+      "retorno": "ENTER",
+      "cor": "#17a2b8",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Finalizar",
+      "retorno": "ESC[50~",
+      "cor": "#fd7e14",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Pgto",
+      "retorno": "F12",
+      "cor": "#ffc107",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Troca",
+      "retorno": "ALT+T",
+      "cor": "#e83e8c",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Relatório",
+      "retorno": "CTRL+R",
+      "cor": "#343a40",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Opções",
+      "retorno": "ESC[60~",
+      "cor": "#198754",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Preço",
+      "retorno": "ESC[13~",
+      "cor": "#28a745",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Subtotal",
+      "retorno": "ESC[15~",
+      "cor": "#007bff",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Cancelar",
+      "retorno": "ESC[20~",
+      "cor": "#dc3545",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Cliente",
+      "retorno": "ESC[30~",
+      "cor": "#6c757d",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Busca",
+      "retorno": "CTRL+F",
+      "cor": "#6f42c1",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Qtd",
+      "retorno": "ESC[40~",
+      "cor": "#20c997",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Confirmar",
+      "retorno": "ENTER",
+      "cor": "#17a2b8",
+      "descricao": "Acessa o submenus do PDV"
+    },
+    {
+      "nome": "Finalizar",
+      "retorno": "ESC[50~",
+      "cor": "#fd7e14",
+      "descricao": "Acessa o submenus do PDV"
+    }
+  ]
+}
